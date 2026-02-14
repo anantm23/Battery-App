@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSUserNotificationsUsageDescription</key>
+    <string>Battery Alert needs notification permission to alert you when your battery reaches the set threshold.</string>
+    <key>CFBundleDisplayName</key>
+    <string>Battery Alert</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.batteryalert.watchos</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>WKWatchOnly</key>
+    <true/>
+</dict>
+</plist>
